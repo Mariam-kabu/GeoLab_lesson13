@@ -1,0 +1,11 @@
+.header{
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+.section-2{
+    background-image: url(../images/bck-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
